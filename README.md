@@ -1,5 +1,6 @@
 ## Hi, I'm Brian 👋
 I'm a sophomore studying CS at Cornell University, and I like doing full-stack apps and applied ML 🛠️
+See my website here: [brian-xia-website.vercel.app](https://brian-xia-website.vercel.app/)
 
 <!--
 **brianxia273/brianxia273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
